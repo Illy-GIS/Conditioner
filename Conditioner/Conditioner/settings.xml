@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+    <darkToggle>
+</darkToggle>
+    <temperatureLabel text="18">
+</temperatureLabel>
+    <celsiusButton>
+</celsiusButton>
+    <humidityLabel text="35%">
+</humidityLabel>
+    <pressureLabel text="765">
+</pressureLabel>
+    <mmHgButton>
+</mmHgButton>
+    <centerDirButton>
+</centerDirButton>
+</settings>

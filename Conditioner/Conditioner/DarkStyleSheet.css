@@ -1,0 +1,139 @@
+QWidget#centralWidget {
+    background-color: #5C5C5C;
+}
+
+QWidget#splitter_1 {
+    border: none;
+    background-color: #A9A9A9;
+}
+
+QWidget#splitter_2 {
+    border: none;
+    background-color: #A9A9A9;
+}
+
+QWidget#splitter_3 {
+    border: none;
+    background-color: #A9A9A9;
+}
+
+QLabel {
+    color: #D9D9D9;
+}
+
+    QLabel#controlHide {
+        background-color: #5C5C5C;
+    }
+
+    QLabel#innerBlock {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+
+    QLabel#outerBlock {
+        border-radius: 5px;
+    }
+
+QPushButton {
+    color: #D9D9D9;
+    background-color: #5C5C5C;
+    border: 2px solid #D9D9D9;
+}
+
+    QPushButton:hover {
+        background-color: #939393;
+    }
+
+    QPushButton:pressed {
+        background-color: #A9A9A9;
+    }
+
+    QPushButton:checked {
+        background-color: #A9A9A9;
+    }
+
+    QPushButton#lightToggle {
+        background-color: #5C5C5C;
+        border: 1px solid #A9A9A9;
+        border-right: 0;
+    }
+
+        QPushButton#lightToggle:hover {
+            background-color: #939393;
+        }
+
+        QPushButton#lightToggle:checked {
+            background-color: #D9D9D9;
+        }
+
+    QPushButton#darkToggle {
+        background-color: #5C5C5C;
+        border: 1px solid #A9A9A9;
+    }
+
+        QPushButton#darkToggle:hover {
+            background-color: #939393;
+        }
+
+        QPushButton#darkToggle:checked {
+            background-color: #D9D9D9;
+        }
+
+    QPushButton#powerButton {
+        border: 2px solid #C90000;
+        border-radius: 10px;
+    }
+
+    QPushButton#increaseButton {
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom: 0;
+    }
+
+    QPushButton#decreaseButton {
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+    }
+
+    QPushButton#celsiusButton {
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-right: 0;
+    }
+
+    QPushButton#fahrenheitButton {
+        border-right: 0;
+    }
+
+    QPushButton#kelvinButton {
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+
+    QPushButton#mmHgButton {
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-right: 0;
+    }
+
+    QPushButton#pascalButton {
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+
+    QPushButton#leftDirButton {
+        border-top-left-radius: 10px;
+        border-bottom-left-radius: 10px;
+        border-right: 0;
+    }
+
+    QPushButton#centerDirButton {
+        border-right: 0;
+    }
+
+    QPushButton#rightDirButton {
+        border-top-right-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }

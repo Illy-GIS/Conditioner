@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/CustomMainWindow">
+        <file>icons/big_light_CenterWind.png</file>
+        <file>icons/big_light_ChevronDown.png</file>
+        <file>icons/big_light_ChevronUp.png</file>
+        <file>icons/big_light_Drop.png</file>
+        <file>icons/big_light_InnerBlockModel.png</file>
+        <file>icons/big_light_LeftWind.png</file>
+        <file>icons/big_light_Moon.png</file>
+        <file>icons/big_light_OuterBlockModel.png</file>
+        <file>icons/big_light_RightWind.png</file>
+        <file>icons/big_light_Sun.png</file>
+        <file>icons/big_Power.png</file>
+        <file>icons/big_dark_CenterWind.png</file>
+        <file>icons/big_dark_ChevronDown.png</file>
+        <file>icons/big_dark_ChevronUp.png</file>
+        <file>icons/big_dark_Drop.png</file>
+        <file>icons/big_dark_InnerBlockModel.png</file>
+        <file>icons/big_dark_LeftWind.png</file>
+        <file>icons/big_dark_OuterBlockModel.png</file>
+        <file>icons/big_dark_RightWind.png</file>
+        <file>icons/big_dark_Sun.png</file>
+        <file>icons/conditioner.png</file>
+        <file>icons/conditioner_old.png</file>
+    </qresource>
+</RCC>
